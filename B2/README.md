@@ -5,8 +5,8 @@ Due to BOM generation, schematics contains some parts that are not present on th
 
 "Bugs highlight":
 * DSP_Disable signal is not working - it will turn-off whole board
-* Missing fixing pads for Tosling - you need to glue it
-* jumper wire needed for one timing capacitors 
+* Missing fixing pads for Toslink connectors - you need to glue them
+* jumper wire needed for one timing capacitor 
 
 
 [Bug list](https://docs.google.com/spreadsheets/d/1_dzgIj09PDWNxM0hXiN3Wn4PsSBpoaOSRhSJXX5WdX8/edit#gid=567249624)
