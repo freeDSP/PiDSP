@@ -12,7 +12,7 @@ For more details please see:
 
 * Power supply 12V
 * Logic level 3.3V  NOT 5V TOLERANT!!
-* PCB:10x10 4L - nope, you can not etch it on your sink. But it fits into 10x10cm dimension limit of cheap fab houses :)
+* PCB:10cmx10cm 4L - nope, you can not etch it on your sink. But it fits into 10x10cm dimension limit of cheap fab houses :)
 * Inputs: 1xSPDIF, 4xI2S - TDM capable
 * Outputs: 1xSPDIF, 4xI2S - TDM capable
 * ADAU1452 controls: 4 analog controls, 4 digital controls
