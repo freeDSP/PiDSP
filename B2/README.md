@@ -1,6 +1,6 @@
 # Version B2
 
-This version is functional with some minor modification. 
+This version is functional with some minor modification. This is not the final version. Developement is underway to fix the bugs.
 
 "Bugs highlight":
 * DSP_Disable signal is not working - it will turn-off whole board
