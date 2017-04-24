@@ -6,7 +6,16 @@ For more details please see:
 
 [PiDSP Manual](https://docs.google.com/document/d/19vuj6VbJ9ktcaG_P7PJXTnH1ImkcPwiqC4xYBWqMJs8)
 
-[Developement thread](http://www.diyaudio.com/forums/digital-line-level/268660-freedsp-v2-0-adau1452-developement-thread-20.html)
+[Developement thread@diyaudio.com](http://www.diyaudio.com/forums/digital-line-level/268660-freedsp-v2-0-adau1452-developement-thread-20.html)
+
+[hackaday.io](https://hackaday.io/project/21119-pidsp)
+
+[eevblog forum](http://www.eevblog.com/forum/oshw/pidsp-24bit196khz-dsp-board-for-raspberry-pi/)
+
+B2 is current version, containing some bugs.
+
+B3(in developement branch) is work in progress.
+
 
 **Specifications:**
 
