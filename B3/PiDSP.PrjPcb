@@ -256,7 +256,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RYSXAGYN
+DocumentUniqueId=TWMLNBBQ
 
 [Document14]
 DocumentPath=DSPcontrol.Harness
@@ -789,6 +789,10 @@ Variation52=Designator=J10|UniqueId=\BIOGKLLT\XUQQDXYX\CDYDXMYE|Kind=1|Alternate
 Variation53=Designator=J14|UniqueId=\BIOGKLLT\XUQQDXYX\ASUMNEQC|Kind=1|AlternatePart= 
 Variation54=Designator=J12|UniqueId=\BIOGKLLT\XUQQDXYX\SFLJVJUQ|Kind=1|AlternatePart= 
 ParamVariationCount=14
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PiDSP\Design Rule Check - PiDSP.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=revision
